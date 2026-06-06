@@ -1,21 +1,16 @@
-# Math & Bio Data Analysis Project
-
-Repository for mathematical and biological data analysis and learning.
+# EduPharm-AI
 
 ## Introduction
-This project is a data analysis and learning tool that combines mathematical modeling with biological (Bio) data to analyze and visualize meaningful patterns. It aims to statistically process complex biological datasets, implement predictive models, and advance understanding of computational biology.
+This project is an AI-powered integrated education management and specialized learning tool designed to streamline student tutoring workflows and accelerate complex pharmacy concept retention.
 
 ## Key Features
-* **Biological Data Preprocessing & Analysis:** Cleansing and normalizing large-scale biological datasets.
-* **Mathematical Modeling Implementation:** Applying statistical models and algorithms for quantitative data analysis.
-* **Formula Derivation & Verification:** Simulating and validating mathematical formulas used in analytical models.
-* **Data Visualization:** Generating intuitive graphs and charts to monitor analyzed outcomes.
+- **LLM-Based Automated Feedback Pipeline:** Automatically generates customized performance reports and feedback messages based on student score inputs.
+- **Pharmacy & Bio Concept Flashcard Generator:** Transforms complex biological data and pharmaceutical formulations into interactive, AI-generated flashcards for efficient study.
+- **Unified Workflow Dashboard:** Tracks student grades and personal academic learning schedules within a single, integrated platform.
 
-## Getting Started
+## How to Use
+1. Download: Clone the repository to your local environment using the command: `git clone https://github.com/your-username/pharm_study_calc.git`
+2. Run: The project is currently in its initial architecture and feature specification phase; stay tuned for the upcoming prototype release.
 
-### Installation
-Clone this repository to your local environment:
-```bash
-git clone https://github.com/your-username/pharm_study_calc.git
-cd pharm_study_calc
-```
+## License
+MIT License
